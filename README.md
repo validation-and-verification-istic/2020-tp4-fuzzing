@@ -1,4 +1,4 @@
-# Test generation
+# Property testing
 
 
 Each exercise comes with a starting template project. These templates have all dependencies already configured.
